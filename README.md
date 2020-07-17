@@ -9,7 +9,7 @@ Keras 2.x
 
 pip install -U tensorflow keras opencv-python
 
-##Installation
+## Installation
 
 pip3 install imageai --upgrade
 
